@@ -7,7 +7,6 @@ The Task List Application is a simple web-based application that allows users to
 Add new tasks
 Delete tasks
 Edit tasks
-Complete tasks
 
 ## Technologies Used
 HTML
@@ -26,5 +25,3 @@ Click the "Add Task" button or press "Enter" to add the task to the list.
 Click the "Delete" button (trash can icon) next to the task you want to remove.
 ### Editing a Task
 Click on the "edit" button and then a pop up comes where you can rename the task.
-### Marking a Task as Completed
-Click on the task description. A completed task will have a strikethrough effect.
