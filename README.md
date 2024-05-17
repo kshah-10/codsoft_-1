@@ -1,4 +1,4 @@
-# codsoft_task1
+# Task List Application
 
 # Introduction
 The Task List Application is a simple web-based application that allows users to manage their daily tasks. Users can add, delete, and mark tasks as completed. The application uses local storage to persist tasks between sessions.
